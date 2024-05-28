@@ -11,8 +11,7 @@ This project utilizes an XGBoost model to predict consumer activity types (e.g.,
 - [Usage](#usage)
 - [Model](#model)
 - [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Project Overview
 
@@ -67,11 +66,3 @@ The project uses an XGBoost classifier to predict consumer activity types. The w
 ## Evaluation
 
 Model performance is evaluated using accuracy metrics. The notebook provides a detailed evaluation section that compares the predicted and actual consumer activity types.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
