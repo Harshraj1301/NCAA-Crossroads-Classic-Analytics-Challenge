@@ -1,4 +1,4 @@
-# NCAA Women's Basketball Consumer Activity Prediction
+# NCAA-Crossroads-Classic-Analytics-Challenge
 
 This project utilizes an XGBoost model to predict consumer activity types (e.g., Primary purchase, Multiple purchase) based on NCAA Women's Basketball data. The notebook includes data preprocessing, model training, and evaluation steps.
 
